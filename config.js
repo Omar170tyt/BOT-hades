@@ -4,9 +4,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['524428783389#on restrict', 'BOT-Mawuis', true],
-  ['525637215030#on restrict', 'mawuis', true],
-  ['584243135736#on restrict', '𝙾liver', true],
+  ['524428783389#enable restrict', 'BOT-Mawuis', true],
+  ['525637215030#enable restrict', 'mawuis', true],
+  ['584243135736#enable restrict', '𝙾liver', true],
 ]
 
 global.mods = [''],
